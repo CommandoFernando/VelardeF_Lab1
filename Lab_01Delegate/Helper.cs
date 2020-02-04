@@ -7,7 +7,6 @@ namespace Lab_01Interface
     public class Helper
     {
         private IRemoveMethod done;
-        private Manager manager;
         public void DoWork()
         {
             Console.WriteLine("Doing Work");
