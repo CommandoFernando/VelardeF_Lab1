@@ -2,11 +2,15 @@
 
 namespace VelardeF_Lab1
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Manager Mgr = new Manager();
+            Client Karen = new Client();
+            //Helper H1 = new Helper(Mgr);
+            //Helper H2 = new Helper(Mgr);
+            Karen.Work();
         }
     }
 }

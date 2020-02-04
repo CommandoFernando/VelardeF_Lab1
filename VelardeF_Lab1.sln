@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VelardeF_Lab1", "VelardeF_Lab1\VelardeF_Lab1.csproj", "{80ECE8FA-6AAA-46EA-AE28-E36BAF461A5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_01Delegate", "Lab_01Delegate\Lab_01Delegate.csproj", "{E7FDEA38-B6F8-4167-A9DB-52AADFB41483}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{80ECE8FA-6AAA-46EA-AE28-E36BAF461A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80ECE8FA-6AAA-46EA-AE28-E36BAF461A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80ECE8FA-6AAA-46EA-AE28-E36BAF461A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7FDEA38-B6F8-4167-A9DB-52AADFB41483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7FDEA38-B6F8-4167-A9DB-52AADFB41483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7FDEA38-B6F8-4167-A9DB-52AADFB41483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7FDEA38-B6F8-4167-A9DB-52AADFB41483}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
