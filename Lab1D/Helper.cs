@@ -7,10 +7,10 @@ namespace Lab1D
     public class Helper
     {
         public delegate void DEL(Helper h);
-        DEL done;
+        private DEL done;
         public void DoWork()
         {
-            Console.WriteLine("Doing Work");
+            Console.WriteLine("Doing Work"); 
         }
         public void Finished()
         {
